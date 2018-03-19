@@ -1,6 +1,6 @@
 # bitcamp-site-2018
 
-http://2018.bit.camp/
+bitcamp18@gmail.com
 
 ## Quick Start
 
